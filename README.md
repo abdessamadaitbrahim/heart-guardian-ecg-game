@@ -163,6 +163,20 @@ heart-guardian-ecg-game/
 `-- .gitignore
 ```
 
+## Team
+
+Team **Health Hackers**, Game4Health Hackathon 2026.
+
+| Member | Field |
+|--------|-------|
+| [Abdessamad Ait Brahim](https://github.com/abdessamadaitbrahim) | AI engineering |
+| [Aya Essebaiy](https://www.linkedin.com/in/aya-essebaiy-698a55341/) | Computer science |
+| [Fatima Elmessaoudi](https://www.linkedin.com/in/fatima-elmessaoudi-7bb455346/) | Computer science |
+| [Abdenour Cheridou](https://www.linkedin.com/in/abdenour-cheridou/) | Mechatronics |
+| [Chaimae Fezzaga](https://www.linkedin.com/in/chaimae-fezzaga-133467323/) | Mechatronics |
+| [Nada El Morabit](https://www.linkedin.com/in/nada-el-morabit-5262a234a/) | Mechatronics |
+| [Issam Benabar](https://www.linkedin.com/in/issam-benabar/) | Mechatronics |
+
 ## Author
 
 **Abdessamad Ait Brahim** - [github.com/abdessamadaitbrahim](https://github.com/abdessamadaitbrahim)
