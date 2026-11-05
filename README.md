@@ -33,7 +33,7 @@ Diabetes and obesity are rising fast in Morocco: the International Diabetes Fede
 
 Target users: people with diabetes, people with obesity and cardiac risk, players with a cardiac history, and paediatric clinics (playful cardiac rehabilitation).
 
-This is a hackathon prototype built together with a business model and cost study, see [Documents](#documents).
+Built by team **Health Hackers** at the **Game4Health Hackathon** ("Create the game that heals"), an innovation competition organised by the SmartTech Lab of ISMAGI in Rabat on 3-4 April 2026. The team received a certificate of participation. The business model and cost study are in [Documents](#documents).
 
 ![Solution overview](docs/images/solution_overview.png)
 
