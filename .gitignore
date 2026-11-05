@@ -1,0 +1,51 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Data and models (regenerated locally)
+data/mitbih/
+data/model/*.pkl
+data/*.db
+
+# ESP32 secrets
+firmware/ecg_wifi/secrets.h
+
+# Unity (generated folders)
+/unity/HeartRunner/Library/
+/unity/HeartRunner/Temp/
+/unity/HeartRunner/Obj/
+/unity/HeartRunner/Logs/
+/unity/HeartRunner/UserSettings/
+/unity/HeartRunner/MemoryCaptures/
+/unity/HeartRunner/Builds/
+/unity/HeartRunner/.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.apk
+*.aab
+UpgradeLog*.htm
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Unity: publish only own scripts and the package manifest
+/unity/HeartRunner/*
+!/unity/HeartRunner/Assets/
+/unity/HeartRunner/Assets/*
+!/unity/HeartRunner/Assets/Scripts/
+!/unity/HeartRunner/Assets/Scripts.meta
+!/unity/HeartRunner/Packages/
+/unity/HeartRunner/Packages/*
+!/unity/HeartRunner/Packages/manifest.json
+
+# Generated data
+data/
